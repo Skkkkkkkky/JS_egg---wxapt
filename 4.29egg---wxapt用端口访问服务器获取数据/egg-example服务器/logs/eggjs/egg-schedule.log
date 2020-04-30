@@ -1,0 +1,180 @@
+2020-04-29 10:31:34,354 INFO 7372 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64705650ms at 2020-04-30 04:30:00.004
+2020-04-29 10:31:34,354 INFO 7372 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48505646ms at 2020-04-30 00:00:00.000
+2020-04-29 10:31:34,355 INFO 7372 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48506645ms at 2020-04-30 00:00:01.000
+2020-04-29 10:31:34,165 INFO 7940 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 10:31:34,165 INFO 7940 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 10:31:34,165 INFO 7940 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 10:39:33,861 INFO 7560 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64226143ms at 2020-04-30 04:30:00.004
+2020-04-29 10:39:33,861 INFO 7560 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48026139ms at 2020-04-30 00:00:00.000
+2020-04-29 10:39:33,862 INFO 7560 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48027139ms at 2020-04-30 00:00:01.001
+2020-04-29 10:39:33,398 INFO 5160 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 10:39:33,398 INFO 5160 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 10:39:33,398 INFO 5160 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 11:11:03,082 INFO 8464 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62336923ms at 2020-04-30 04:30:00.005
+2020-04-29 11:11:03,083 INFO 8464 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 46136917ms at 2020-04-30 00:00:00.000
+2020-04-29 11:11:03,084 INFO 8464 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 46137917ms at 2020-04-30 00:00:01.001
+2020-04-29 11:11:02,465 INFO 8364 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 11:11:02,465 INFO 8364 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 11:11:02,465 INFO 8364 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 14:13:21,512 INFO 6552 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 14:13:21,512 INFO 6552 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 14:13:21,513 INFO 6552 [egg-schedule]: register schedule D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 14:13:21,961 INFO 8116 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51398043ms at 2020-04-30 04:30:00.004
+2020-04-29 14:13:21,961 INFO 8116 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 35198039ms at 2020-04-30 00:00:00.000
+2020-04-29 14:13:21,962 INFO 8116 [Timer] D:\Sky\egg.js\neew\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 35199039ms at 2020-04-30 00:00:01.001
+2020-04-29 15:34:40,105 INFO 6136 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 15:34:40,105 INFO 6136 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 15:34:40,105 INFO 6136 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 15:34:40,486 INFO 7060 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46519519ms at 2020-04-30 04:30:00.005
+2020-04-29 15:34:40,487 INFO 7060 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30319513ms at 2020-04-30 00:00:00.000
+2020-04-29 15:34:40,488 INFO 7060 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30320513ms at 2020-04-30 00:00:01.001
+2020-04-29 16:35:24,880 INFO 10208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:35:24,880 INFO 10208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:35:24,880 INFO 10208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:35:28,598 INFO 10192 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42871407ms at 2020-04-30 04:30:00.005
+2020-04-29 16:35:28,598 INFO 10192 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26671402ms at 2020-04-30 00:00:00.000
+2020-04-29 16:35:28,599 INFO 10192 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26672402ms at 2020-04-30 00:00:01.001
+2020-04-29 16:36:50,591 INFO 10616 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:36:50,591 INFO 10616 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:36:50,591 INFO 10616 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:37:01,920 INFO 9552 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:37:01,920 INFO 9552 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:37:01,920 INFO 9552 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:37:45,793 INFO 3340 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:37:45,793 INFO 3340 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:37:45,793 INFO 3340 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:37:57,498 INFO 7624 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:37:57,498 INFO 7624 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:37:57,498 INFO 7624 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:39:30,092 INFO 7572 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:39:30,092 INFO 7572 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:39:30,092 INFO 7572 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:40:47,447 INFO 5880 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42552557ms at 2020-04-30 04:30:00.004
+2020-04-29 16:40:47,448 INFO 5880 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26352552ms at 2020-04-30 00:00:00.000
+2020-04-29 16:40:47,448 INFO 5880 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26353552ms at 2020-04-30 00:00:01.000
+2020-04-29 16:40:46,618 INFO 5432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:40:46,618 INFO 5432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:40:46,618 INFO 5432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:46:12,838 INFO 10556 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:46:12,838 INFO 10556 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:46:12,838 INFO 10556 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:46:13,769 INFO 9660 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42226235ms at 2020-04-30 04:30:00.004
+2020-04-29 16:46:13,770 INFO 9660 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26026230ms at 2020-04-30 00:00:00.000
+2020-04-29 16:46:13,770 INFO 9660 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26027230ms at 2020-04-30 00:00:01.000
+2020-04-29 16:47:46,020 INFO 5036 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:47:46,020 INFO 5036 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:47:46,020 INFO 5036 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:49:13,952 INFO 8220 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:49:13,952 INFO 8220 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:49:13,952 INFO 8220 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:49:17,736 INFO 5684 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42042268ms at 2020-04-30 04:30:00.004
+2020-04-29 16:49:17,737 INFO 5684 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25842263ms at 2020-04-30 00:00:00.000
+2020-04-29 16:49:17,737 INFO 5684 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25843263ms at 2020-04-30 00:00:01.000
+2020-04-29 16:51:07,232 INFO 9208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:51:07,232 INFO 9208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:51:07,232 INFO 9208 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:51:08,016 INFO 5568 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41931988ms at 2020-04-30 04:30:00.004
+2020-04-29 16:51:08,017 INFO 5568 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25731984ms at 2020-04-30 00:00:00.001
+2020-04-29 16:51:08,017 INFO 5568 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25732983ms at 2020-04-30 00:00:01.000
+2020-04-29 16:51:39,155 INFO 5788 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:51:39,155 INFO 5788 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:51:39,155 INFO 5788 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:52:31,062 INFO 6160 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:52:31,062 INFO 6160 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:52:31,062 INFO 6160 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:52:31,991 INFO 9992 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41848013ms at 2020-04-30 04:30:00.004
+2020-04-29 16:52:31,991 INFO 9992 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25648009ms at 2020-04-30 00:00:00.000
+2020-04-29 16:52:31,992 INFO 9992 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25649009ms at 2020-04-30 00:00:01.001
+2020-04-29 16:54:33,561 INFO 4840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:54:33,562 INFO 4840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:54:33,562 INFO 4840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:54:34,348 INFO 8280 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41725656ms at 2020-04-30 04:30:00.004
+2020-04-29 16:54:34,348 INFO 8280 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25525652ms at 2020-04-30 00:00:00.000
+2020-04-29 16:54:34,349 INFO 8280 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25526651ms at 2020-04-30 00:00:01.000
+2020-04-29 16:56:49,204 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:56:49,204 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:56:49,204 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:56:49,968 INFO 10228 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41590037ms at 2020-04-30 04:30:00.005
+2020-04-29 16:56:49,968 INFO 10228 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25390032ms at 2020-04-30 00:00:00.000
+2020-04-29 16:56:49,969 INFO 10228 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25391032ms at 2020-04-30 00:00:01.001
+2020-04-29 16:58:18,167 INFO 7944 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:58:18,167 INFO 7944 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:58:18,167 INFO 7944 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:59:22,772 INFO 4844 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:59:22,772 INFO 4844 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:59:22,772 INFO 4844 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 16:59:42,245 INFO 5880 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 16:59:42,245 INFO 5880 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 16:59:42,245 INFO 5880 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:00:09,575 INFO 5504 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:00:09,575 INFO 5504 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:00:09,575 INFO 5504 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:00:51,947 INFO 9784 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:00:51,947 INFO 9784 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:00:51,947 INFO 9784 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:02:37,319 INFO 8620 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:02:37,319 INFO 8620 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:02:37,319 INFO 8620 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:02:38,244 INFO 8312 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41241760ms at 2020-04-30 04:30:00.003
+2020-04-29 17:02:38,244 INFO 8312 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25041756ms at 2020-04-30 00:00:00.000
+2020-04-29 17:02:38,244 INFO 8312 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25042756ms at 2020-04-30 00:00:01.000
+2020-04-29 17:03:24,321 INFO 7488 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:03:24,321 INFO 7488 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:03:24,321 INFO 7488 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:04:00,003 INFO 9720 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:04:00,003 INFO 9720 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:04:00,003 INFO 9720 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:04:14,786 INFO 10088 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:04:14,786 INFO 10088 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:04:14,786 INFO 10088 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:04:36,016 INFO 8432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:04:36,016 INFO 8432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:04:36,016 INFO 8432 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:04:47,809 INFO 5684 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:04:47,810 INFO 5684 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:04:47,810 INFO 5684 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:05:22,547 INFO 10348 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:05:22,547 INFO 10348 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:05:22,547 INFO 10348 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:05:44,315 INFO 11000 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:05:44,315 INFO 11000 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:05:44,315 INFO 11000 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:06:04,931 INFO 9412 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:06:04,931 INFO 9412 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:06:04,931 INFO 9412 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:09:01,775 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:09:01,775 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:09:01,775 INFO 4352 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:09:02,680 INFO 5628 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40857324ms at 2020-04-30 04:30:00.004
+2020-04-29 17:09:02,680 INFO 5628 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24657320ms at 2020-04-30 00:00:00.000
+2020-04-29 17:09:02,681 INFO 5628 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24658320ms at 2020-04-30 00:00:01.001
+2020-04-29 17:17:06,616 INFO 6368 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:17:06,616 INFO 6368 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:17:06,616 INFO 6368 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:17:07,401 INFO 3300 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40372603ms at 2020-04-30 04:30:00.004
+2020-04-29 17:17:07,401 INFO 3300 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24172599ms at 2020-04-30 00:00:00.000
+2020-04-29 17:17:07,402 INFO 3300 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24173599ms at 2020-04-30 00:00:01.001
+2020-04-29 17:18:05,007 INFO 10976 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:18:05,007 INFO 10976 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:18:05,007 INFO 10976 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:28:36,992 INFO 4948 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:28:36,992 INFO 4948 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:28:36,992 INFO 4948 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:28:37,816 INFO 3552 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39682188ms at 2020-04-30 04:30:00.004
+2020-04-29 17:28:37,816 INFO 3552 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23482184ms at 2020-04-30 00:00:00.000
+2020-04-29 17:28:37,817 INFO 3552 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23483183ms at 2020-04-30 00:00:01.000
+2020-04-29 17:32:29,753 INFO 4500 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:32:29,753 INFO 4500 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:32:29,753 INFO 4500 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-29 17:51:49,446 INFO 8296 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38290558ms at 2020-04-30 04:30:00.004
+2020-04-29 17:51:49,446 INFO 8296 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22090554ms at 2020-04-30 00:00:00.000
+2020-04-29 17:51:49,447 INFO 8296 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22091554ms at 2020-04-30 00:00:01.001
+2020-04-29 17:51:49,326 INFO 5840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-29 17:51:49,326 INFO 5840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-29 17:51:49,326 INFO 5840 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-30 09:35:34,201 INFO 6928 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68065803ms at 2020-05-01 04:30:00.004
+2020-04-30 09:35:34,202 INFO 6928 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51865799ms at 2020-05-01 00:00:00.001
+2020-04-30 09:35:34,202 INFO 6928 [Timer] D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51866798ms at 2020-05-01 00:00:01.000
+2020-04-30 09:35:33,818 INFO 6408 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-30 09:35:33,818 INFO 6408 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-30 09:35:33,818 INFO 6408 [egg-schedule]: register schedule D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

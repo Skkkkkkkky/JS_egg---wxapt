@@ -1,0 +1,1110 @@
+2020-04-29 16:35:28,604 ERROR 10208 [-/::1/-/8ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10208
+hostname: A-001
+
+2020-04-29 16:36:39,184 ERROR 10208 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10208
+hostname: A-001
+
+2020-04-29 16:37:34,269 ERROR 9552 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 9552
+hostname: A-001
+
+2020-04-29 16:37:35,714 ERROR 9552 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 9552
+hostname: A-001
+
+2020-04-29 16:37:37,747 ERROR 9552 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 9552
+hostname: A-001
+
+2020-04-29 16:37:38,503 ERROR 9552 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 9552
+hostname: A-001
+
+2020-04-29 16:41:12,586 ERROR 5432 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 5432
+hostname: A-001
+
+2020-04-29 16:46:34,894 ERROR 10556 [-/::1/-/16ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:38,310 ERROR 10556 [-/::1/-/3ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:40,953 ERROR 10556 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:41,387 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:42,134 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:42,745 ERROR 10556 [-/::1/-/3ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:43,303 ERROR 10556 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:43,838 ERROR 10556 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:45,299 ERROR 10556 [-/::1/-/5ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:46:45,954 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:47:18,299 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:47:20,685 ERROR 10556 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:47:23,578 ERROR 10556 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:47:28,145 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:47:40,521 ERROR 10556 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10556
+hostname: A-001
+
+2020-04-29 16:51:45,670 ERROR 5788 [-/::1/-/14ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 5788
+hostname: A-001
+
+2020-04-29 16:53:10,605 ERROR 6160 [-/::1/-/23ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:16,561 ERROR 6160 [-/::1/-/4ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:19,055 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:19,661 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:20,939 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:21,597 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:22,272 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:23,159 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:23,818 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:24,437 ERROR 6160 [-/::1/-/3ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:25,035 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:25,648 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:26,246 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:26,873 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:27,526 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:28,076 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:28,798 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:29,591 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:30,419 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,043 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,252 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,464 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,681 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,729 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:31,940 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,142 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,178 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,407 ERROR 6160 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,613 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,629 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,897 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:32,917 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,156 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,351 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,380 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,556 ERROR 6160 [-/::1/-/0ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,758 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:33,966 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:53:34,152 ERROR 6160 [-/::1/-/1ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 6160
+hostname: A-001
+
+2020-04-29 16:54:50,229 ERROR 4840 [-/::1/-/15ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 4840
+hostname: A-001
+
+2020-04-29 16:54:53,737 ERROR 4840 [-/::1/-/3ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 4840
+hostname: A-001
+
+2020-04-29 16:54:54,480 ERROR 4840 [-/::1/-/2ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 4840
+hostname: A-001
+
+2020-04-29 16:57:00,884 ERROR 4352 [-/::1/-/8ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 4352
+hostname: A-001
+
+2020-04-29 16:58:26,622 ERROR 7944 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 7944
+hostname: A-001
+
+2020-04-29 16:59:37,814 ERROR 4844 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 4844
+hostname: A-001
+
+2020-04-29 17:00:48,554 ERROR 5504 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.show is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 5504
+hostname: A-001
+
+2020-04-29 17:02:42,733 ERROR 8620 [-/::1/-/13ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:9:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 8620
+hostname: A-001
+
+2020-04-29 17:03:51,661 ERROR 7488 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 7488
+hostname: A-001
+
+2020-04-29 17:04:37,480 ERROR 8432 [-/::1/-/11ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 8432
+hostname: A-001
+
+2020-04-29 17:05:16,230 ERROR 5684 [-/::1/-/16ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 5684
+hostname: A-001
+
+2020-04-29 17:05:36,266 ERROR 10348 [-/::1/-/12ms GET /] nodejs.TypeError: ctx.service.index.index is not a function
+    at HomeController.index (D:\Sky\code\nodeJS4.29\egg-example\app\controller\home.js:8:34)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\Sky\code\nodeJS4.29\egg-example\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at next (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:45:18)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:44:32)
+    at D:\Sky\code\nodeJS4.29\egg-example\node_modules\koa-compose\index.js:36:12
+
+pid: 10348
+hostname: A-001
+

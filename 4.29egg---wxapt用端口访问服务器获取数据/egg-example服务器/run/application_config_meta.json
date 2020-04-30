@@ -1,0 +1,293 @@
+{
+  "keys": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\config\\config.default.js",
+  "middleware": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\config\\config.default.js",
+  "session": {
+    "maxAge": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\Sky\\code\\nodeJS4.29\\egg-example\\node_modules\\egg\\config\\config.default.js"
+}
